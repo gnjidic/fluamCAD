@@ -1,6 +1,6 @@
 {
-  "name": "Cascade Studio",
-  "short_name": "CascadeStudio",
+  "name": "FEMesh",
+  "short_name": "FEMesh",
   "start_url": ".",
   "display": "standalone",
   "description": "A fully integrated Scripted CAD Kernel for the browser.",
